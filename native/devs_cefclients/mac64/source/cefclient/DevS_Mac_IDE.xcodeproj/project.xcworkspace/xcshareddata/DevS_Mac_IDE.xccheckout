@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>0BA1EF69-5230-4895-B07A-64FEC417D4F8</string>
+	<key>IDESourceControlProjectName</key>
+	<string>DevS_Mac_IDE</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>D0FAF9179D09C0F1C91BEA5D773572EF882C808A</key>
+		<string>https://github.com/rajeevanWSO2/cloud-dev-studio.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>native/devs_cefclients/mac64/source/cefclient/DevS_Mac_IDE.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>D0FAF9179D09C0F1C91BEA5D773572EF882C808A</key>
+		<string>../../../../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/rajeevanWSO2/cloud-dev-studio.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>D0FAF9179D09C0F1C91BEA5D773572EF882C808A</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>D0FAF9179D09C0F1C91BEA5D773572EF882C808A</string>
+			<key>IDESourceControlWCCName</key>
+			<string>wso2-cloud-developer-studio</string>
+		</dict>
+	</array>
+</dict>
+</plist>
